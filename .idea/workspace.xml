@@ -1,15 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5922df23-bce3-4521-81a9-dd924a818073" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BeginnerProjects/tic-tac-toe/src/domain/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BeginnerProjects/tic-tac-toe/src/domain/Parser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BeginnerProjects/tic-tac-toe/src/domain/Tile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BeginnerProjects/tic-tac-toe/src/domain/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LearningProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LearningProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_15_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_win_15_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_15_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_win_15_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_15_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_15_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_15_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_15_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeginnerProjects/tic-tac-toeFX/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeginnerProjects/tic-tac-toeFX/src/main/java/com/example/tictactoefx/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeginnerProjects/tic-tac-toeFX/src/main/java/com/example/tictactoefx/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeginnerProjects/tic-tac-toeFX/src/main/resources/com/example/tictactoefx/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeginnerProjects/tic-tac-toeFX/tic-tac-toeFX.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeginnerProjects/tic-tac-toe/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeginnerProjects/tic-tac-toe/src/domain/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/BeginnerProjects/tic-tac-toeFX/src/main/java/domain/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeginnerProjects/tic-tac-toe/src/domain/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/BeginnerProjects/tic-tac-toeFX/src/main/java/domain/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeginnerProjects/tic-tac-toe/src/domain/Tile.java" beforeDir="false" afterPath="$PROJECT_DIR$/BeginnerProjects/tic-tac-toeFX/src/main/java/domain/Tile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeginnerProjects/tic-tac-toe/src/domain/main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,10 +62,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA" />
-    <property name="jdk.selected.JAVA_MODULE" value="openjdk-16" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="jdk.selected.JAVA_MODULE" value="15" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/javafx_15.01/javafx-sdk-15.0.1/lib" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Anton Sandbye\Documents\GitHub\LearningProjects\BeginnerProjects" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -82,5 +114,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
